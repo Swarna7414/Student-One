@@ -11,6 +11,9 @@ public class Student {
     @Id
     private Integer roll;
 
+
+    //Name of the Student
+
     private String name;
 
     private Integer age;
